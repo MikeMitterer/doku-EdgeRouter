@@ -1,0 +1,4 @@
+ovpn/clients/
+ovpn/demoCA/**/*
+!index.txt.attr
+README.EdgeRouter.md
